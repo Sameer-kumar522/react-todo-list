@@ -9,6 +9,9 @@ A simple To-Do List application built with React.
 - Clean UI with hover effects
 
 
+Live Demo: <https://sameer-kumar522.github.io/react-todo-list/>
+
+
 ## Tech Used
 - React
 - JavaScript (ES6)
